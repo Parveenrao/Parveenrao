@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parveen Yadav</h1>
 <h3 align="center">Passionate Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveenrao&label=Profile%20views&color=0e75b6&style=flat" alt="parveenrao" /> </p>
+<p align="left"> <img src="https://www.google.com/imgres?q=github%20avatar%20images&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F522079%2F90506845-e8420580-e122-11ea-82ca-31087fc8486c.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fdirectus%2Fdirectus%2Fdiscussions%2F3123&docid=zxhgIuCdtbb7EM&tbnid=eL3oD3AJ0OUxXM&vet=12ahUKEwir5quK-vGIAxXSSmwGHUiYH5IQM3oECGQQAA..i&w=528&h=560&hcb=2&ved=2ahUKEwir5quK-vGIAxXSSmwGHUiYH5IQM3oECGQQAA" alt="parveenrao" /> </p>
 
 - 🔭 I’m currently working on **Generative AI**
 
