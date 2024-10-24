@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parveen Yadav</h1>
 <h3 align="center">Passionate Data Scientist</h3>
 
-<p align="left"> <img src="https://www.google.com/imgres?q=github%20avatar%20images&imgurl=https%3A%2F%2Fimg1.pnghut.com%2F12%2F15%2F8%2FjEG3D0hfHN%2Fgithub-gulpjs-ninja-shuriken-fictional-character.jpg&imgrefurl=https%3A%2F%2Fpnghut.com%2Fpng%2FjEG3D0hfHN%2Fninja-computer-programming-learning-study-skills-github-avatar-transparent-png&docid=Kh16G4dTIrz06M&tbnid=D9DWDpan__WxjM&vet=12ahUKEwir5quK-vGIAxXSSmwGHUiYH5IQM3oECGoQAA..i&w=830&h=830&hcb=2&ved=2ahUKEwir5quK-vGIAxXSSmwGHUiYH5IQM3oECGoQAA" alt="parveenrao" /> </p>
+<p align="left"> <img src="https://www.google.com/imgres?q=images%20for%20github%20for%20boys&imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F426%2F18%2Fpng-transparent-minot-state-beavers-football-computer-software-beard-github-samanage-others-face-head-boy.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yqwkb&docid=Bhh3lfRaZDHg5M&tbnid=_tKJhx71EYR5JM&vet=12ahUKEwinhPPCkqaJAxWpxTgGHcCGN74QM3oECD4QAA..i&w=920&h=500&hcb=2&itg=1&ved=2ahUKEwinhPPCkqaJAxWpxTgGHcCGN74QM3oECD4QAA" alt="parveenrao" /> </p>
 
 - 🔭 I’m currently working on **Generative AI**
 
