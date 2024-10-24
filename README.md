@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parveen Yadav</h1>
 <h3 align="center">Passionate Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveenrao&label=Profile%20views&color=0e75b6&style=flat" alt="parveenrao" /> </p>
+<p align="left"> <img src="https://w7.pngwing.com/pngs/769/950/png-transparent-kaspersky-lab-github-computer-software-antivirus-software-kahoot-face-head-boy.png" alt="parveenrao" width="400" height="400" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parveenrao" alt="parveenrao" /></a> </p>
 
