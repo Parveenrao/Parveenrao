@@ -13,7 +13,7 @@ Currently Working On: Computer Vision, Audio & Speech Recognition, Cloud Computi
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Parveenrao&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Parveenrao&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Parveenrao&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Parveenrao&icon=0&color=0)](https://visitcount.itsvg.in)
