@@ -1,11 +1,8 @@
 <div align="center">
 
-![Uploading image.png…]()
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production+video+analytics+at+scale;RTSP+streams+%2B+YOLO+%2B+real-time+alerting;Exploring+System+Design+and+Distributed+Architecture;Writing+at+Backend-Codex" alt="Typing SVG" />
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production+video+analytics+at+scale;RTSP+streams+%2B+YOLO+%2B+real-time+alerting;Exploring+System+Design+%26+Distributed+Architecture;Writing+at+Backend-Codex" alt="Typing SVG" />
-
-<br>
+</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/parveen.yadav_7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parveen-y-47703025)
