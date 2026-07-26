@@ -1,28 +1,10 @@
 <div align="center">
 
-# Hey, I'm Parveen 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00ADD8&height=200&section=header&text=Parveen%20Rao&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20Computer%20Vision%20%26%20Real-Time%20AI%20Systems&descAlignY=55&descSize=18" />
 
-### Backend Engineer · Computer Vision & Real-Time AI Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production+video+analytics+at+scale;RTSP+streams+%2B+YOLO+%2B+real-time+alerting;Exploring+System+Design+%26+Distributed+Architecture;Writing+at+Backend-Codex" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+production+video+analytics+at+scale;RTSP+streams+%2B+YOLO+%2B+real-time+alerting;Exploring+System+Design+%26+Distributed+Architecture;Writing+at+Backend-Codex" alt="Typing SVG" />
 
 <br>
-
-## 💫 About Me
-
-- 🔭 **Currently working on:** Computer Vision, Audio & Speech Recognition, Cloud Computing, and Backend Engineering — building scalable, production-ready AI and backend systems
-- 🤝 **Looking to collaborate on:** Backend & AI projects involving scalable APIs, distributed systems, cloud-native architecture, and real-time AI pipelines
-- 🌱 **Currently learning:** Low-Level Design (LLD) & System Design — design patterns, SOLID principles, scalability, caching, databases, messaging, and fault-tolerant architecture
-- 💬 **Ask me about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, Distributed Systems, SQL & NoSQL, database internals
-- ⚡ **Fun fact:** I design highly available systems because my relationship taught me what a single point of failure looks like 💀
-
-<br>
-
-## 🌐 Connect
-
-<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/parveen.yadav_7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parveen-y-47703025)
@@ -33,16 +15,82 @@
 
 <br>
 
+## 💫 About Me
+
+```yaml
+currently_working_on: [Computer Vision, Audio & Speech Recognition, Cloud Computing, Backend Engineering]
+looking_to_collaborate_on: [Scalable APIs, Distributed Systems, Cloud-Native Architecture, Real-Time AI Pipelines]
+currently_learning: [Low-Level Design, System Design, Fault-Tolerant Architecture]
+ask_me_about: [System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL]
+fun_fact: "I design highly available systems because my relationship taught me what a single point of failure looks like 💀"
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
+
+## 🚀 Featured Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🎥 Video Analytics Platform</h3>
+<sub>Production system</sub>
+<br><br>
+Real-time RTSP stream processing with pluggable AI detection modules — PPE compliance, crowd density, abandoned object detection, ANPR, fall detection, fire/smoke.
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/YOLO-black?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
+</td>
+<td width="50%" valign="top">
+<h3>🛕 Temple Management SaaS</h3>
+<sub>Multi-tenant platform</sub>
+<br><br>
+Multi-tenant SaaS for temple operations across India — donations with per-tenant receipt numbering, document management, and events.
+<br><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square" height="20"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📍 Activity Centre Discovery</h3>
+<sub>Personal project</sub>
+<br><br>
+Geospatial discovery backend for local activity centres — modular monolith, async-first architecture throughout.
+<br><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square" height="20"/>
+</td>
+<td width="50%" valign="top">
+<h3>🤝 Hyperlocal Free-Sharing</h3>
+<sub>Personal project</sub>
+<br><br>
+Real-time, location-based platform for sharing free items nearby — live updates via WebSockets, OAuth2 auth.
+<br><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/WebSockets-black?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="20"/>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
+
 ## 💻 Tech Stack
 
 **Languages**
-<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Backend & APIs**
-<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=flat-square&logo=gunicorn&logoColor=white)
@@ -50,7 +98,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
 **AI / ML / Computer Vision**
-<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
@@ -61,7 +108,6 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 **Data & Messaging**
-<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -72,7 +118,6 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Cloud & DevOps**
-<br>
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
@@ -81,20 +126,20 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-181717?style=flat-square&logo=gitlab&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parveenrao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parveenrao&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parveenrao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parveenrao&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parveenrao&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parveenrao&theme=tokyonight&hide_border=true&background=00000000" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parveenrao&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%" />
 
 </div>
-
-<br>
 
 ## 🏆 Trophies
 
@@ -102,8 +147,22 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Parveenrao&theme=tokyonight&no-frame=true&margin-w=8&column=7" />
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Parveenrao/Parveenrao/output/github-contribution-grid-snake.svg" width="100%" />
+
+<sub>(one-time setup below — 3 min, then this animates itself forever)</sub>
+
+</div>
+
 <br>
 
 <div align="center">
-<sub>👀 Profile views: <img src="https://komarev.com/ghpvc/?username=Parveenrao&color=6C63FF&style=flat-square" valign="middle" /></sub>
+<sub>👀 <img src="https://komarev.com/ghpvc/?username=Parveenrao&color=6C63FF&style=flat-square" valign="middle" /></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00ADD8&height=100&section=footer" width="100%" />
