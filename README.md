@@ -15,17 +15,22 @@
 
 <br>
 
+
+
 ## 💫 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+
+- 🧠 **currently_working_on:** Computer Vision, Audio & Speech Recognition, Cloud Computing, Backend Engineering
+- 🤝 **looking_to_collaborate_on:** Scalable APIs, Distributed Systems, Cloud-Native Architecture, Real-Time AI Pipelines
+- 📚 **currently_learning:** Low-Level Design, System Design, Fault-Tolerant Architecture
+- 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
+
 ```yaml
-currently_working_on: [Computer Vision, Audio & Speech Recognition, Cloud Computing, Backend Engineering]
-looking_to_collaborate_on: [Scalable APIs, Distributed Systems, Cloud-Native Architecture, Real-Time AI Pipelines]
-currently_learning: [Low-Level Design, System Design, Fault-Tolerant Architecture]
-ask_me_about: [System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL]
 fun_fact: "I design highly available systems because my relationship taught me what a single point of failure looks like 💀"
 ```
 
-<br>
+<br clear="right">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
 
