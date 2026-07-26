@@ -151,7 +151,6 @@ Real-time, location-based platform for sharing free items nearby — live update
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
-
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Parveenrao/Parveenrao/output/github-contribution-grid-snake.svg" width="100%" />
