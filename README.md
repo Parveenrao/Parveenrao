@@ -25,7 +25,7 @@
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
 
 ```yaml
-fun_fact: "I design highly available systems because my relationship taught me what a single point of failure looks like 💀"
+fun_fact: "Five years in production. Turns out I was just the staging environment for her next deployment. 💀"
 ```
 
 <br clear="right">
