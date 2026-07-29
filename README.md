@@ -25,7 +25,7 @@
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
 
 ```yaml
-fun_fact: "Five years in production. Turns out I was just the staging environment for her next deployment. 💀"
+fun_fact: "I thought we were horizontally scaling. Turns out she was just adding another node. 💀."
 ```
 
 <br clear="right">
