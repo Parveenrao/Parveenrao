@@ -25,7 +25,7 @@
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
 
 ```yaml
-fun_fact: "I thought we were horizontally scaling. Turns out she was just adding another node. 💀."
+fun_fact: "Fun Fact: She didn’t ghost me. My access token just expired while someone else got admin privileges. 💀"
 ```
 
 <br clear="right">
