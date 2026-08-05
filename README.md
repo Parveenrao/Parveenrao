@@ -32,59 +32,7 @@ fun_fact: "Fun Fact: I spent five years optimizing the algorithm. Someone else e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
 
-## 🚀 Featured Work
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🎥 Video Analytics Platform</h3>
-<sub>Production system</sub>
-<br><br>
-Real-time RTSP stream processing with pluggable AI detection modules — PPE compliance, crowd density, abandoned object detection, ANPR, fall detection, fire/smoke.
-<br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/YOLO-black?style=flat-square" height="20"/>
-<img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="20"/>
-</td>
-<td width="50%" valign="top">
-<h3>🛕 Temple Management SaaS</h3>
-<sub>Multi-tenant platform</sub>
-<br><br>
-Multi-tenant SaaS for temple operations across India — donations with per-tenant receipt numbering, document management, and events.
-<br><br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square" height="20"/>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📍 Activity Centre Discovery</h3>
-<sub>Personal project</sub>
-<br><br>
-Geospatial discovery backend for local activity centres — modular monolith, async-first architecture throughout.
-<br><br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/SQLAlchemy_2.0-D71F00?style=flat-square" height="20"/>
-</td>
-<td width="50%" valign="top">
-<h3>🤝 Hyperlocal Free-Sharing</h3>
-<sub>Personal project</sub>
-<br><br>
-Real-time, location-based platform for sharing free items nearby — live updates via WebSockets, OAuth2 auth.
-<br><br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/WebSockets-black?style=flat-square" height="20"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="20"/>
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
 
 ## 💻 Tech Stack
 
