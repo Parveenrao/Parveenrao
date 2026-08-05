@@ -15,7 +15,7 @@
 
 <br>
 
-## 💫 About Me
+💫 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 
@@ -79,7 +79,7 @@ fun_fact: "Fun Fact: I spent five years optimizing the algorithm. Someone else e
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
@@ -92,7 +92,7 @@ fun_fact: "Fun Fact: I spent five years optimizing the algorithm. Someone else e
 
 </div>
 
-## 🏆 Achievements
+🏆 Achievements
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Parveenrao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
@@ -105,7 +105,8 @@ fun_fact: "Fun Fact: I spent five years optimizing the algorithm. Someone else e
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
-### 🐍 Contribution Snake
+
+🐍 
 
 <img src="https://raw.githubusercontent.com/Parveenrao/Parveenrao/output/github-contribution-grid-snake.svg" width="100%" />
 
