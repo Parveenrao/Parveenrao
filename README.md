@@ -152,17 +152,8 @@ Real-time, location-based platform for sharing free items nearby — live update
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
 ### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Parveenrao/Parveenrao/output/github-contribution-grid-snake.svg" width="100%" />
-
-<sub>(one-time setup below — 3 min, then this animates itself forever)</sub>
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>👀 <img src="https://komarev.com/ghpvc/?username=Parveenrao&color=6C63FF&style=flat-square" valign="middle" /></sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00ADD8&height=100&section=footer" width="100%" />
+<picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parveenrao/Parveenrao/output/robot-dark.svg" />
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parveenrao/Parveenrao/output/robot.svg" />
+     <img alt="robot contribution graph" src="https://raw.githubusercontent.com/Parveenrao/Parveenrao/output/robot.svg" />
+   </picture>
