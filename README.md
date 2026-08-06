@@ -25,7 +25,7 @@
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
 
 ```yaml
-fun_fact: "Fun Fact: I spent five years optimizing the algorithm. Someone else enjoyed the O(1) lookup. 💀"
+fun_fact: I gave her root access. She changed the owner. 💀
 ```
 
 <br clear="right">
