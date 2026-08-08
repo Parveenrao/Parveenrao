@@ -25,7 +25,7 @@
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
 
 
-fun_fact: I was the only one committing. The repository belonged to everyone.
+- ⚡ Fun Fact: I was handling all the requests while she was load-balancing between users. 💀
 
 
 
