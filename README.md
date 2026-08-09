@@ -93,19 +93,13 @@
 
 </div>
 
+
+
 🏆 Achievements
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Parveenrao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
+<img src="https://github-profile-trophy.vercel.app/?username=Parveenrao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Parveenrao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:00ADD8&height=2&section=header" width="100%" />
 
 🐍 
 
