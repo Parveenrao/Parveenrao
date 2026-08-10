@@ -25,7 +25,7 @@
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
 
 
-- ⚡ Fun Fact: I was handling all the requests while she was load-balancing between users. 💀
+- ⚡ Fun Fact:: I thought she was my load balancer. Turns out she was distributing traffic elsewhere. 💀. 
 
 
 
