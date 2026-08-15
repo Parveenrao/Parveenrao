@@ -25,7 +25,7 @@
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
 
 
-- ⚡ Fun Fact: Five years of logs, and somehow the root cause was another user. 💀 
+
 
 
 
