@@ -23,6 +23,7 @@
 - 🤝 **looking_to_collaborate_on:** Scalable APIs, Distributed Systems, Cloud-Native Architecture, Real-Time AI Pipelines
 - 📚 **currently_learning:** Low-Level Design, System Design, Fault-Tolerant Architecture
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
+- ⚡ Fun Fact: I thought I was building a future. Turns out I was just generating training data for someone else's. 💀
 
 
 
