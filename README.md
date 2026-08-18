@@ -23,7 +23,7 @@
 - 🤝 **looking_to_collaborate_on:** Scalable APIs, Distributed Systems, Cloud-Native Architecture, Real-Time AI Pipelines
 - 📚 **currently_learning:** Low-Level Design, System Design, Fault-Tolerant Architecture
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
-- ⚡ Fun Fact: I understand attention mechanisms now. Mostly because I learned what happens when attention goes somewhere else. 💀
+- ⚡ Fun Fact: I spent years teaching machines to detect humans. She left me for another human and called it “for humanity.” 💀
 
 
 
