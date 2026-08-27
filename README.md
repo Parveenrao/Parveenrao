@@ -107,4 +107,3 @@
 
 <sub>(one-time setup below — 3 min, then this animates itself forever)</sub>
 
-</div>
