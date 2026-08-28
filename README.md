@@ -23,7 +23,8 @@
 - 🤝 **looking_to_collaborate_on:** Scalable APIs, Distributed Systems, Cloud-Native Architecture, Real-Time AI Pipelines
 - 📚 **currently_learning:** Low-Level Design, System Design, Fault-Tolerant Architecture
 - 💬 **ask_me_about:** System Design, AI/ML, Databases, Backend Engineering, Computer Vision, SQL & NoSQL
-- The tears became data, the fears became features, and the years became training.
+- The tears the fears and the years
+  
 
 
 
